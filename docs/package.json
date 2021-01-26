@@ -1,0 +1,19 @@
+{
+  "name": "cte-wiki",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "pat kerrigan",
+    "email": "patrick.kerrigan@nhcs.net"
+  },
+  "repository": "https://github.com/patkerrigan/cte-wiki/cte-wiki",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
